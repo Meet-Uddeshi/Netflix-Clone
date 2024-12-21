@@ -7,7 +7,7 @@
 - Smart personalized recommendations to enhance user experience  
 - Interactive ratings, reviews, and a convenient watchlist  
 
-**Purpose:**
+**Purposes:**
 - Designed as an educational initiative  
 - Serves as a powerful business prototype for next-gen streaming services  
 
